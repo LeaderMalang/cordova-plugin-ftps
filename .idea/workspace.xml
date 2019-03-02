@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ef85e96-9c67-42c8-8b8b-028f11905211" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../worked/cordova-plugin-ftp/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../worked/cordova-plugin-ftp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../worked/cordova-plugin-ftp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../www/css/boostrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-browser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/cordova-browser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/android/CDVFtp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/android/libs/ftp4j-1.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/CDVFtp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/CDVFtp.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/GRRequestsManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/GRRequestsManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/GRRequestsManagerProtocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRCreateDirectoryRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRCreateDirectoryRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRDeleteRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRDeleteRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRDownloadRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRDownloadRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRListingRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRListingRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRRequestProtocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRUploadRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRUploadRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRError.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRError.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRQueue.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRQueue.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRStreamInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRStreamInfo.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/cordova-plugin-ftp/www/ftp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/javaCompile/taskJars.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/assets/debug/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/assets/debug/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/assets/debug/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/assets/debug/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/assets/debug/www/plugins/cordova-plugin-ftp/www/ftp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/assets/debug/www/plugins/cordova-plugin-ftp/www/ftp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtpTransferListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtpTransferListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/incremental/packageDebug/debug/zip-cache/O6cGZs2DIiWUZdISmoaHU0xIF9Y=" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/incremental/packageDebug/debug/zip-cache/O6cGZs2DIiWUZdISmoaHU0xIF9Y=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtpTransferListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtpTransferListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$4.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$5.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$5.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$6.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$6.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$7.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$7.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$8.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$8.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$9.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$9.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtpTransferListener.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtpTransferListener.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/10.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/7.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/7.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/libs/ftp4j-1.7.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/libs/ftp4j-1.7.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/src/main/assets/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/src/main/assets/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/src/main/assets/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/src/main/assets/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/src/main/assets/www/plugins/cordova-plugin-ftp/www/ftp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/src/main/assets/www/plugins/cordova-plugin-ftp/www/ftp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/app/src/main/java/io/github/xfally/cordova/plugin/ftp/CDVFtp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/app/src/main/java/io/github/xfally/cordova/plugin/ftp/CDVFtp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/android/platform_www/plugins/cordova-plugin-ftp/www/ftp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/android/platform_www/plugins/cordova-plugin-ftp/www/ftp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/browser/platform_www/plugins/cordova-plugin-ftp/www/ftp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/browser/platform_www/plugins/cordova-plugin-ftp/www/ftp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/browser/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/browser/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/browser/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/browser/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../platforms/browser/www/plugins/cordova-plugin-ftp/www/ftp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../platforms/browser/www/plugins/cordova-plugin-ftp/www/ftp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/android/CDVFtp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/android/libs/ftp4j-1.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/CDVFtp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/CDVFtp.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/GRRequestsManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/GRRequestsManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/GRRequestsManagerProtocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRCreateDirectoryRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRCreateDirectoryRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRDeleteRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRDeleteRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRDownloadRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRDownloadRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRListingRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRListingRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRRequestProtocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRUploadRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Requests/GRUploadRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Utils/GRError.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Utils/GRError.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Utils/GRQueue.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Utils/GRQueue.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Utils/GRStreamInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ios/GoldRaccoon/Sources/Utils/GRStreamInfo.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/ftp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fetch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fetch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../www/js/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1128088342">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2061758715">
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/android/CDVFtp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="182" column="18" selection-start-line="182" selection-start-column="18" selection-end-line="182" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/ftp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/ftp.js" />
+        <option value="$PROJECT_DIR$/src/android/CDVFtp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="62" />
+    <option name="y" value="23" />
+    <option name="width" value="1218" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ef85e96-9c67-42c8-8b8b-028f11905211" name="Default Changelist" comment="" />
+      <created>1551536492008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551536492008</updated>
+      <workItem from="1551543503031" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="62" y="23" width="1218" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.31056395" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/ftp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/android/CDVFtp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="182" column="18" selection-start-line="182" selection-start-column="18" selection-end-line="182" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

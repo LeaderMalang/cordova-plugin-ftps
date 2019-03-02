@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1d4670f-faac-4b15-a23c-75fffea9d173" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../www/css/boostrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-browser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../node_modules/cordova-browser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/android/CDVFtp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/android/libs/ftp4j-1.7.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/CDVFtp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/CDVFtp.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/GRRequestsManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/GRRequestsManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/GRRequestsManagerProtocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRCreateDirectoryRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRCreateDirectoryRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRDeleteRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRDeleteRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRDownloadRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRDownloadRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRListingRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRListingRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRRequestProtocol.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRUploadRequest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRUploadRequest.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRError.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRError.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRQueue.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRQueue.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRStreamInfo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRStreamInfo.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../node_modules/cordova-plugin-ftp/www/ftp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/javaCompile/taskJars.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/generated/source/buildConfig/debug/org/apache/cordova/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/generated/source/r/debug/org/apache/cordova/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/attr/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/bundles/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/AuthenticationToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/BuildHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CallbackContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CallbackMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/ConfigXmlParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaBridge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaClientCertRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper$Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaDialogsHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaHttpAuthHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaInterfaceImpl$ActivityResultHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaInterfaceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaPreferences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaResourceApi$OpenForReadResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaResourceApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewEngine$Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewEngine$EngineView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$EngineClient$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$EngineClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl$EngineClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CordovaWebViewImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/CoreAndroid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/ExposedJsApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/ICordovaClientCertRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/ICordovaCookieManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/ICordovaHttpAuthHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/LOG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$BridgeMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$EvalBridgeMode$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$EvalBridgeMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$JsMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$LoadUrlBridgeMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$NoOpBridgeMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode$OnlineEventsBridgeModeDelegate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue$OnlineEventsBridgeMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/NativeToJsMessageQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/PermissionHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/PluginEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/PluginManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/PluginResult$Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/PluginResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/ResumeCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/Whitelist$URLPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/Whitelist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemCookieManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemExposedJsApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebChromeClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebViewClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebViewEngine$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebViewEngine$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/engine/SystemWebViewEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/incremental/compileDebugAidl/dependency.store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/intermediate-jars/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/intermediate-jars/debug/res.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/javaPrecompile/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/manifests/aapt/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/manifests/full/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/res/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/CordovaLib/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/android.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/android/android.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/generated/source/buildConfig/debug/com/ftp/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/generated/source/r/debug/com/ftp/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/generated/source/r/debug/org/apache/cordova/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/cordova-js-src/android/nativeapiprovider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/cordova-js-src/android/promptbasednativeapi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/cordova-js-src/exec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/cordova-js-src/platform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/cordova-js-src/plugin/android/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/cordova.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/cordova_plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/assets/debug/www/plugins/cordova-plugin-ftp/www/ftp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/com/ftp/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/com/ftp/MainActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/com/ftp/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/com/ftp/R$mipmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/com/ftp/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/com/ftp/R$xml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/com/ftp/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/io/github/xfally/cordova/plugin/ftp/CDVFtpTransferListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/org/apache/cordova/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/org/apache/cordova/whitelist/WhitelistPlugin$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/org/apache/cordova/whitelist/WhitelistPlugin$CustomConfigXmlParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/classes/debug/org/apache/cordova/whitelist/WhitelistPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/compileDebugAidl/dependency.store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/m6ri4mdcvhh1VMSIuq5HwrF_E0c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/oxT2OuTQ+HUEs5U0l_oWaj49j1s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/m6ri4mdcvhh1VMSIuq5HwrF_E0c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/oxT2OuTQ+HUEs5U0l_oWaj49j1s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/packageDebug/debug/zip-cache/Ez+pUSLixYvuusRY8QmVX+wWMKk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/incremental/packageDebug/debug/zip-cache/O6cGZs2DIiWUZdISmoaHU0xIF9Y=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/javaPrecompile/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/manifests/density/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/manifests/full/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/manifests/instant-run/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/debug/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/drawable-land-hdpi_screen.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/drawable-land-ldpi_screen.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_screen.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xhdpi_screen.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi_screen.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxxhdpi_screen.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/drawable-port-hdpi_screen.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/drawable-port-ldpi_screen.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/drawable-port-mdpi_screen.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xhdpi_screen.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxhdpi_screen.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/drawable-port-xxxhdpi_screen.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/mipmap-ldpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/splits-support/debug/split-list.gson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/symbols/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/ftp/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/ftp/MainActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/ftp/R$drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/ftp/R$mipmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/ftp/R$string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/ftp/R$xml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/com/ftp/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/io/github/xfally/cordova/plugin/ftp/CDVFtpTransferListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/whitelist/WhitelistPlugin$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/whitelist/WhitelistPlugin$CustomConfigXmlParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/1/org/apache/cordova/whitelist/WhitelistPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/desugar/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/com/ftp/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/com/ftp/MainActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/com/ftp/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/com/ftp/R$mipmap.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/com/ftp/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/com/ftp/R$xml.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/com/ftp/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$5.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$6.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$7.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$8.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp$9.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtp.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/io/github/xfally/cordova/plugin/ftp/CDVFtpTransferListener.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/org/apache/cordova/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/org/apache/cordova/whitelist/WhitelistPlugin$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/org/apache/cordova/whitelist/WhitelistPlugin$CustomConfigXmlParser.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/0/org/apache/cordova/whitelist/WhitelistPlugin.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/stackFramesFixer/debug/0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/intermediates/transforms/stackFramesFixer/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/outputs/apk/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/libs/ftp4j-1.7.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/android/app/libs/ftp4j-1.7.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/src/main/assets/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/android/app/src/main/assets/www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/src/main/assets/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/android/app/src/main/assets/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/src/main/assets/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/android/app/src/main/assets/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/src/main/assets/www/plugins/cordova-plugin-ftp/www/ftp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/android/app/src/main/assets/www/plugins/cordova-plugin-ftp/www/ftp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/src/main/java/io/github/xfally/cordova/plugin/ftp/CDVFtp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/android/app/src/main/java/io/github/xfally/cordova/plugin/ftp/CDVFtp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/app/src/main/res/xml/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/android/app/src/main/res/xml/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/platform_www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/android/platform_www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/android/platform_www/plugins/cordova-plugin-ftp/www/ftp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/android/platform_www/plugins/cordova-plugin-ftp/www/ftp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/browser/browser.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/browser/browser.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/browser/platform_www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/browser/platform_www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/browser/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/browser/www/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/browser/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/browser/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../platforms/browser/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../platforms/browser/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/android.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/android.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/browser.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/browser.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/android/CDVFtp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/android/CDVFtp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/android/libs/ftp4j-1.7.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/android/libs/ftp4j-1.7.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/CDVFtp.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/CDVFtp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/CDVFtp.m" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/CDVFtp.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/GRRequestsManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/GRRequestsManager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/GRRequestsManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/GRRequestsManager.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/GRRequestsManagerProtocol.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/GRRequestsManagerProtocol.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRRequestProtocol.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Requests/GRRequestProtocol.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRQueue.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRQueue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRQueue.m" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/src/ios/GoldRaccoon/Sources/Utils/GRQueue.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/www/ftp.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/cordova-plugin-ftp/www/ftp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../plugins/fetch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../plugins/fetch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../www/js/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1444445898">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="74" />
+    <option name="y" value="43" />
+    <option name="width" value="1206" />
+    <option name="height" value="737" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1d4670f-faac-4b15-a23c-75fffea9d173" name="Default Changelist" comment="" />
+      <created>1551536437014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551536437014</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="74" y="43" width="1206" height="737" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3299578" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
