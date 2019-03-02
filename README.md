@@ -39,7 +39,9 @@ document.addEventListener("deviceready", onDeviceReady, false);
 function onDeviceReady() {
     // First of all, connect to ftp server address without protocol prefix. e.g. "192.168.1.1:21", "ftp.xfally.github.io"
     // Notice: address port is only supported for Android, if not given, default port 21 will be used.
-    window.cordova.plugin.ftp.connect('ftp.xfally.github.io', 'username', 'password', function(ok) {
+    //For FTP 'test.rebex.net', 'demo', 'password'
+    //For FTPS 'test.rebex.net:990', 'demo', 'password'
+    window.cordova.plugin.ftp.connect('test.rebex.net:990', 'demo', 'password', function(ok) {
         console.info("ftp: connect ok=" + ok);
 
         // You can do any ftp actions from now on...
